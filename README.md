@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Noman
-- 👀 I’m interested in NGS data analyses, visulaization and interpretation.
+- 👀 I’m interested in NGS data analyses, visulization and interpretation.
 - 🌱 I’m currently learning R, the script and its various packages.
 - 💞️ I’m looking to collaborate on RNASeq data analyes.
 - 📫 How to reach me - mohmmdnoman@gmail.com
